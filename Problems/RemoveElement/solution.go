@@ -1,4 +1,4 @@
-package main
+package removeelement
 func removeElement(nums []int, val int) int {
     k := 0
     for index,element := range nums{
