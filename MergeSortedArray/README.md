@@ -1,15 +1,15 @@
 ---
 created: 2025-09-02
-modified: 
-completed: false
-leetcode-index: 88 
+modified:
+completed: true
+leetcode-index: 88
 link: https://leetcode.com/problems/merge-sorted-array
-difficulty: Easy 
+difficulty: Easy
 tags:
-   - leetcode/array
-   - leetcode/two-pointers
-   - leetcode/sorting 
-   - leetcode/problem
+  - leetcode/array
+  - leetcode/two-pointers
+  - leetcode/sorting
+  - leetcode/problem
 ---
 # Merge Sorted Array
 
